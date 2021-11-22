@@ -1,0 +1,5 @@
+Make AnimalShelter a parameterized class.
+    Because all AnimalShelters can specify what types of animals they contain.
+    Whether that be a combination of different types. One single type of animals.
+    Or all types of animals.
+

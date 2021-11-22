@@ -6,7 +6,7 @@ package animalshelter;
 public class ShelterError {
 
     public static void main(String[] args){
-        CatShelter catShelter = new CatShelter();
+        AnimalShelter<Animal> catShelter = new AnimalShelter<>();
         Dog badBoyRex = new Dog();
 
         catShelter.putAnimal(badBoyRex);
